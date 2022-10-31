@@ -13,7 +13,7 @@ Currently pertaining to what all I've solved since July, 2015 till January, 2019
 8. [Szkopuł](https://szkopul.edu.pl/)
 9. [oj.uz](https://oj.uz/)
 
-*Note: This an archive made only for reference and nostaliga :smiling_face_with_three_hearts:*
+*Note: This an archive made only for reference and nostalgia :smiling_face_with_three_hearts:*
 
 ![Memory in Google Drive](/assets/img/nostaliga.png "Memory in Google Drive")
 
