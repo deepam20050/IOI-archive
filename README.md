@@ -1,4 +1,4 @@
-Moving my solutions to various OJ problem during my **International Olympiad in Informatics** training days to GitHub from Google Drive.
+Moved my solutions to various OJ problem during my **International Olympiad in Informatics** training days to GitHub from Google Drive.
 
 Currently pertaining to what all I've solved since July, 2015 till January, 2019 from the online judges :
 
